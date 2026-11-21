@@ -2,7 +2,7 @@
 
 Personal homepage of [Szymon Marciniak](https://github.com/VashaTS) (VashaTS).
 
-Static HTML and CSS, no build step. Deployed on Cloudflare Pages.
+Static HTML and CSS, no build step. Live at [vashats.pages.dev](https://vashats.pages.dev).
 
 ## Local preview
 
