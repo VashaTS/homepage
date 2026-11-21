@@ -18,7 +18,7 @@ Then open `http://localhost:8080`.
 
 - Home cards, including the EDMPGM “links coming soon” placeholder: `index.html`
 - Minecraft mods, Modrinth placeholders, and the Brody-Nojewo server: `minecraft/index.html`
-- Android games (Gravity Lines): `android/index.html`
+- Android games and apps: `android/index.html`
 - Shared colours and layout: `assets/style.css`
 
 When a Modrinth listing goes live, replace the disabled “Modrinth soon” control with a real link. The intended slugs are already noted in HTML comments.
