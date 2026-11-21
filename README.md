@@ -17,7 +17,7 @@ Then open `http://localhost:8080`.
 ## Editing projects
 
 - Home cards, including the EDMPGM “links coming soon” placeholder: `index.html`
-- Minecraft mods, Modrinth placeholders, and the Brody-Nojewo server: `minecraft/index.html`
+- Minecraft mods, Modrinth placeholders, the Brody-Nojewo server, and mccostcalc: `minecraft/index.html`
 - Android games and apps: `android/index.html`
 - Shared colours and layout: `assets/style.css`
 
